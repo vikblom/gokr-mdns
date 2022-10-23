@@ -1,0 +1,7 @@
+builddir
+env.fish
+*.sh
+*.fish
+extrafiles
+extraflags
+flags
