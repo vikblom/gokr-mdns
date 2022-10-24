@@ -1,4 +1,4 @@
-module github.com/vikblom/krazy
+module github.com/vikblom/gokr-mdns
 
 go 1.18
 
