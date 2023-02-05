@@ -3,7 +3,7 @@
 Advertise `gokrazy.local` through mDNS from rasp pi set up through gokrazy.
 Useful since for some reason I cannot reach gokrazy pi's just through their hostname.
 
-Setup
+## Setup
 ```
 gokr-packer github.com/vikblom/gokr-mdns
 ```

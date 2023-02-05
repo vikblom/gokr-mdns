@@ -28,6 +28,7 @@ func main() {
 	_, err = resp.Add(dnssd.Service{
 		Domain: "local",
 		Host:   "gokrazy",
+		Ifaces: []string{"eth0", "wlan0"},
 	})
 	if err != nil {
 		log.Fatalf("add service: %s", err)
